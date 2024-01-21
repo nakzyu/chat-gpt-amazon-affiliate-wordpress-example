@@ -4,7 +4,7 @@ This example demonstrates a method that combines Chat GPT API, WordPress informa
 
 ## How to Use
 
-### 1 Create a .env file and fill it with the following details:
+### 1. Create a .env file and fill it with the following details:
 
 - `OPENAI_API_KEY`
   - Your API key for Chat GPT, obtainable from OPENAI.
@@ -17,7 +17,7 @@ This example demonstrates a method that combines Chat GPT API, WordPress informa
 - `WP_DOMAIN`
   - Your WordPress domain.
 
-### 2 Create a file named `a.json` and insert links to Amazon product lists, not individual product detail pages.
+### 2. Create a file named `a.json` and insert links to Amazon product lists, not individual product detail pages.
 
 Example:
 
@@ -29,4 +29,4 @@ Example:
 ]
 ```
 
-### 3 Run with python `./main.py`
+### 3. Install packages with `pip install -r requirements.txt` and Run with python `./src/main.py`
