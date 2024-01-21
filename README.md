@@ -29,4 +29,4 @@ Example:
 ]
 ```
 
-### 3. Install packages with `pip install -r requirements.txt` and Run with python `./src/main.py`
+### 3. Install packages with `pip install -r requirements.txt` and Run with `python ./src/main.py`
