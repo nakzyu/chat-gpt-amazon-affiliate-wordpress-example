@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+nltk
+numpy
+networkx
+scipy
+selenium
+python-dotenv
+openai
+asyncio
+httplib2
+chromedriver_binary
