@@ -1,4 +1,4 @@
-## Purpose
+## Introduction
 
 This example demonstrates a method that combines Chat GPT API, WordPress information, and your Amazon Affiliate link ID to automatically post content.
 The prompt included in this code is customized to generate posts that adhere to the rules of the Amazon Affiliate program.
